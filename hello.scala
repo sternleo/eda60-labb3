@@ -1,5 +1,5 @@
 object HelloWorld {
     def main(args: Array[String]): Unit = {
-        println("Hello, world dubbel XD!")
+        println("Hello, world trippel XD!")
     }
 }
